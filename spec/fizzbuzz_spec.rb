@@ -12,7 +12,7 @@ describe('fizzbuzz') do
 end
 describe('fizzbuzz') do
   it('returns "fizzbuzz" if factor of 15') do
-    expect(fizzbuzz(15)).to eq 'fizz'
+    expect(fizzbuzz(15)).to eq 'fizzbuzz'
   end
 end
 describe('fizzbuzz')do
